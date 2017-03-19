@@ -10,3 +10,5 @@ Selected the files added in that area.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 for testing, adding new features before they go to the master
 
+How do the diagrams help you visualize the branch structure?
+
