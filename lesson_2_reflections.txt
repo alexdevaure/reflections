@@ -4,3 +4,7 @@ A .git directory is created.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It is an intermediate area. It offers more control before the commit
 
+How can you use the staging area to make sure you have one commit per logical change?
+Selected the files added in that area.
+
+
